@@ -1,13 +1,15 @@
 # Automatic Car Parking System
 
-![Project Image](project-image-url)
+![Project Image](aditya-rathod--I1AgAq3PCQ-unsplash.jpg)
 
-> This is a ReadMe template to help save you time and effort.
+Photo by <a href="https://unsplash.com/@adityareds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Rathod</a> on <a href="https://unsplash.com/s/photos/car-park?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+
+> This is a desktop based (client/server) Automatic Car Parking system that assigns slots to cars.
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -18,35 +20,38 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
+This is a desktop based (client/server) Automatic Car Parking system that assigns slots to cars, the project incorporates Sqlite3 database system to record events and entities. It is entirely written in Python and the Graphic User Interface was designed with Tkinter library. The application collects plate numbers as a unique identifier and assigns an equally unique slot number to the vehicle. At the car's exit, total time parked is calculated and the bill is automatically generated.
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Python
+- Tkinter Library
+- Sqlite3
+- PyCharm
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#automatic-car-parking-system)
 
 ---
 
 ## How To Use
 
-#### Installation
+For now, you will need DB Browser (Sqlite3) to store the program's data locally.
+Run "server.py" to initialize the server. Then run GUI_main.py using Python 3.
 
+#### Installations
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
+For tkinter background image
+`pip install pillow`
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+
+- LinkedIn - [Mary-Ann Egbudom](https://www.linkedin.com/in/mary-ann-egbudom-9017b3109)
+- Twitter - [@Rianne_egb](https://twitter.com/Rianne_egb)
+
+[Back To The Top](#automatic-car-parking-system)
 
 ---
 
@@ -54,7 +59,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2022] [Mary-Ann Egbudom]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -74,13 +79,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+
+[Back To The Top](#automatic-car-parking-system)
 
 ---
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- LinkedIn - [Mary-Ann Egbudom](https://www.linkedin.com/in/mary-ann-egbudom-9017b3109)
+- Twitter - [@Rianne_egb](https://twitter.com/Rianne_egb)
 
-[Back To The Top](#read-me-template)
+
+[Back To The Top](#automatic-car-parking-system)
