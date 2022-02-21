@@ -1,8 +1,6 @@
 # Automatic Car Parking System
 
-![Project Image](Screenshot (15).png)
-
-Photo by <a href="https://unsplash.com/@adityareds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Rathod</a> on <a href="https://unsplash.com/s/photos/car-park?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![Project Image](acps-screenshot1.png)
 
 > This is a desktop based (client/server) Automatic Car Parking system that assigns slots to cars.
 
