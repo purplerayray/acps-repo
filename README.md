@@ -38,7 +38,11 @@ This is a desktop based (client/server) Automatic Car Parking system that assign
 
 Main Project Folder available in `master` branch.
 For now, you will need DB Browser (Sqlite3) to store the program's data locally.
-Run "server.py" to initialize the server. Then run GUI_main.py using Python 3.
+Run "server.py" to initialize the server (on local machine). Then run GUI_main.py using Python 3.
+
+Default login details to access dashboard:
+Username: admin
+Password: admin
 
 #### Installations
 
